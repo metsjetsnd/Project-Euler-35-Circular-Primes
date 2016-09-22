@@ -2,4 +2,4 @@
 
 Solution to Project Euler Problem 35
 
-Completed as extra credit for Fundamentals of Computing Lab
+Completed as extra credit for Fundamentals of Computing course
